@@ -1,6 +1,6 @@
-# DataSage
+# DataVista
 
-**DataSage** is an AI-enhanced business intelligence dashboard that automates data analysis, provides predictive insights, and generates personalized visualizations. It is designed to help users uncover trends, detect anomalies, and make data-driven decisions effortlessly.
+**DataVista** is an AI-enhanced business intelligence dashboard that automates data analysis, provides predictive insights, and generates personalized visualizations. It is designed to help users uncover trends, detect anomalies, and make data-driven decisions effortlessly.
 
 ## Key Features
 
